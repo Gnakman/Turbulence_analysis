@@ -3,7 +3,7 @@ import glob as glob
 import numpy as np
 
 
-path = r'C:\Users\Nam\Desktop\ANAL_TURB\Data_for_Dr_Balachandar\Data_for_Dr_Balachandar'
+path = r''
 
 all_files = glob.glob(path + "/*.txt")
 li=[]
